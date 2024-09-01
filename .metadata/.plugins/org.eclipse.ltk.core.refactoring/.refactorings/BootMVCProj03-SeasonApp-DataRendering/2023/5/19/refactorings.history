@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BootMVCProj03-SeasonApp-DataRendering/src/main/webapp/WEB-INF/pages/show_data.jsp&apos; to &apos;display.jsp&apos;" description="Rename resource &apos;show_data.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/pages/show_data.jsp" name="display.jsp" stamp="1683818926530" updateReferences="true"/>
+</session>

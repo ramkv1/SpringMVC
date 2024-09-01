@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;BootBatchProj06-DBToCSVUsingDataJPA&apos;" deleteContents="true" description="Delete resource &apos;BootBatchProj06-DBToCSVUsingDataJPA&apos;" element1="/BootBatchProj06-DBToCSVUsingDataJPA" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1685885128507"/>
+</session>
